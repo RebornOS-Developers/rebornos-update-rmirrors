@@ -2,7 +2,7 @@
 
 pkgname=rebornos-update-rmirrors
 _pkgname=update-rmirrors
-pkgver=20210504
+pkgver=20210914
 pkgrel=1
 pkgdesc="Copy reborn-mirrorlist.pacnew to reborn-mirrorlist"
 arch=('any')
